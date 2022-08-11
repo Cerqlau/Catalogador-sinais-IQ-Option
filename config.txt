@@ -1,6 +1,6 @@
 [CONTA]
-email = cerqlaur@gmail.com
-senha = migueleloren031019
+email = "insira o email do usuário"
+senha = "insira a senha do usuário"
 conta = PRACTICE
 #PRACTICE = Demo / REAL = Conta Real
 
