@@ -35,7 +35,7 @@ pip install pyinstaller
 
 ```
 
-O criar arquivo de especificação para compilação através do código abaixo 
+Navegar até a pasta onde se enocntra via cmd e executar código abaixo para criar o arquivo de especificação 
 
 ```
 pyi-makespec main.py --onefile  --name iqoption-catalogador-exe
