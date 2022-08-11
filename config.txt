@@ -1,0 +1,18 @@
+[CONTA]
+email = cerqlaur@gmail.com
+senha = migueleloren031019
+conta = PRACTICE
+#PRACTICE = Demo / REAL = Conta Real
+
+[GERAL]
+timeframe = 1
+dias = 5
+porcentagem = 80
+martingaleqtd = 2
+parescolha = AUTO 
+#Escolha o par ou AUTO  para todos os pares / para pares em OTC adicione -OTC ao nome do par
+tipoanalise = digital
+# digital / binary
+
+ 
+
