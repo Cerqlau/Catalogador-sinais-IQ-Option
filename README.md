@@ -1,4 +1,4 @@
-# IQOPTIONCatalogador
+# Catalogador-sinais-IQ-Option
 
 Este projeto foi desenvolvido em Python para efetuar a catalogação percentual do tipo de velas para IQOPTION de acordo com um timeframe específico. Utiliza API não ofical para estabelecer conexão com a IQ OPTION.
 
